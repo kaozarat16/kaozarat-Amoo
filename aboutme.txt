@@ -1,3 +1,3 @@
-hello, 
+hello world 
 my name is Kaozarat Amoo. 
-i have been able to push y fist file to github
+I have been able to push my fist file to github.
